@@ -76,7 +76,8 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 	*   The event which has highest probability is selected as the event that is occuring and is selected for labelling on the image.
 	*   The training and validation errors over the epochs changed like..
 ![Training and Validation Losses][tv-loss]
-|[accuracy][acc]|[loss][ls]|
+
+|![accuracy][acc]|![loss][ls]|
 |:---:|:---:|
 |Accuracy changes with epochs|Loss changes with epochs|
 
