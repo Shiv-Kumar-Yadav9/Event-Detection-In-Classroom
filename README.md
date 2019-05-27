@@ -69,12 +69,12 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 *   One 3DCNN model that gives prediction for all the classes of events (sit, stand, walk, push) that could possibly occur.
 *   Four seperate 3DCNN models that individually checked for probabilty of occurance of each of the individual class of event.
 
-## Model 1: One model for all class of events.
+### Model 1: One model for all class of events.
 
 	*   The model outptus the probability of the set of images to represent each of the classes of event.
 	*   The event which has highest probability is selected as the event that is occuring and is selected for labelling on the image.
 
-## Model 2: Four seperate model for each class of events.
+### Model 2: Four seperate model for each class of events.
 
 
 	*   Each of the four model outptus the probability of the set of images to represent that classes of event.
