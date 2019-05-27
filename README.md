@@ -1,9 +1,12 @@
 # Classroom-Event-Detection
 In this repository the events in the classroom like sit, stand, walk and fight are detected and labelled.
 
-![Training and Validation Losses][misc/images/Training_and_validation_losses.png "Losses"]
+![Training and Validation Losses][tv-loss]
 
 The Demo.ipynb stores the code scripts required to get prediction for the Demo videos.
+
+<!--Images-->
+[tv-loss]: misc/images/Training_and_validation_losses.png "Losses"
 
 ## Requirements
 ### Programming tools: Python, Matlab, Visual Studio
