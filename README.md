@@ -64,7 +64,7 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 	1.   In this step the frame 0 ( F0 ) of all the folders is labelled with corresponding predition and the image labelled for each human detected is stored in the directory names 'res'.
 	2.   The images are stored in the alphabetical order of how they occur in the video and thus have the same order in which they can be joined to form a video.
 	
-## Two models were compiled and trained. The model was checked to identify which model gives better accuracy.
+## Two models were compiled and trained. The models were checked to identify which model gives better accuracy.
 
 *   One 3DCNN model that gives prediction for all the classes of events (sit, stand, walk, push) that could possibly occur.
 *   Four seperate 3DCNN models that individually checked for probabilty of occurance of each of the individual class of event.
