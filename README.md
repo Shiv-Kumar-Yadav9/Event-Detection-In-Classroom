@@ -98,7 +98,19 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 
 ## DEMO SAMPLES
 ### STAND DEMO
-[![stand][std]|
+|![stand][std]|
+
+### SIT DEMO
+|![stand][sit]|
+
+### WALK DEMO
+|![stand][walk]|
+
+### PUSH DEMO
+|![stand][push]|
+
+### MIXED DEMO
+|![stand][mixed]|
 
 <!--Images-->
 [tv-loss]: misc/images/Training_and_validation_losses.png "Losses"
@@ -110,3 +122,8 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 [conf3]:misc/images/push_confusion_matrix.png "conf3"
 [conf4]:misc/images/walk_confusion_matrix.png "conf4"
 [std]:misc/images/stand.gif "std"
+[sit]:misc/images/sit.gif "sit"
+[walk]:misc/images/walk.gif "walk"
+[push]:misc/images/push.gif "push"
+[mixed]:misc/images/mixed.gif "mixed"
+[mixed2]:misc/images/mixed2.gif "mixed2"
