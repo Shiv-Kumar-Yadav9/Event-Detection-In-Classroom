@@ -80,8 +80,10 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 
 	*   The model outptus the probability of the set of images to represent each of the classes of event.
 	*   The event which has highest probability is selected as the event that is occuring and is selected for labelling on the image.
-|Normalized Confusion matrix is plotted as:-|
+
 |![confusion][conf]|
+|:---:|
+|Normalized Confusion matrix is plotted as:-|
 
 
 ### Model 2: Four seperate model for each class of events.
@@ -94,7 +96,9 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 |Sit confusion matrix|Stand confusion matrix|Push confusion matrix|Walk confusion matrix|
 
 
-
+## DEMO SAMPLES
+### STAND DEMO
+[![stand][std]|
 
 <!--Images-->
 [tv-loss]: misc/images/Training_and_validation_losses.png "Losses"
@@ -105,3 +109,4 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 [conf2]:misc/images/stand_confusion_matrix.png "conf2"
 [conf3]:misc/images/push_confusion_matrix.png "conf3"
 [conf4]:misc/images/walk_confusion_matrix.png "conf4"
+[std]:misc/images/stand.gif "std"
