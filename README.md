@@ -98,6 +98,7 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 |![confusion1][conf1]|![confusion2][conf2]|
 |:---:|:---:|
 |Sit confusion matrix|Stand confusion matrix|
+|||
 |![confusion3][conf3]|![confusion4][conf4]|
 |Push confusion matrix|Walk confusion matrix|
 
