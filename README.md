@@ -95,10 +95,13 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 
 	*   Each of the four model outptus the probability of the set of images to represent that classes of event.
 	*   Out of all thet probabilities the probability which is highest is selected as the event that is occuring and is selected for labelling on the image.
-|![confusion1][conf1]|![confusion2][conf2]|![confusion3][conf3]|![confusion4][conf4]|
-|:---:|:---:|:---:|:---:|
-|Sit confusion matrix|Stand confusion matrix|Push confusion matrix|Walk confusion matrix|
-
+|![confusion1][conf1]|![confusion2][conf2]|
+|:---:|:---:|
+|Sit confusion matrix|Stand confusion matrix|
+|:---:|:---:|
+|![confusion3][conf3]|![confusion4][conf4]|
+|:---:|:---:|
+|Push confusion matrix|Walk confusion matrix|
 
 ## DEMO SAMPLES
 ### STAND DEMO
