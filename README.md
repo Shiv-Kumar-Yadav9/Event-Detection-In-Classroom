@@ -69,8 +69,10 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 
 *   One 3DCNN model that gives prediction for all the classes of events (sit, stand, walk, push) that could possibly occur.
 *   Four seperate 3DCNN models that individually checked for probabilty of occurance of each of the individual class of event.
-|The training and validation errors over the epochs changed like..|
 |![Training and Validation Losses][tv-loss]|
+|:---:|
+|The training and validation errors over the epochs changed like..|
+
 
 |![accuracy][acc]|![loss][ls]|
 |:---:|:---:|
@@ -98,19 +100,19 @@ The Demo.ipynb stores the code scripts required to get prediction for the Demo v
 
 ## DEMO SAMPLES
 ### STAND DEMO
-|![stand][std]|
+![stand][std]
 
 ### SIT DEMO
-|![stand][sit]|
+![stand][sit]
 
 ### WALK DEMO
-|![stand][walk]|
+![stand][walk]
 
 ### PUSH DEMO
-|![stand][push]|
+![stand][push]
 
 ### MIXED DEMO
-|![stand][mixed]|
+![stand][mixed]
 
 <!--Images-->
 [tv-loss]: misc/images/Training_and_validation_losses.png "Losses"
