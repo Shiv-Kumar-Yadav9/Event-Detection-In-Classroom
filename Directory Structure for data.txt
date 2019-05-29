@@ -1,0 +1,56 @@
+Dataset
+|
++-- Videos
+|   |
+|   +-- Demo
+|   |   |
+|   |   |   +-- video_file_1
+|   |   |   ...
+|   |   |   +-- video_file_n
+|   |
++-- Demo
+|   |
+|   +-- video_file_1
+|   |   |
+|   |   |   +-- a_0
+|   |   |   |
+|   |   |   |   +-- img
+|   |   |   |   |   |
+|   |   |   |   |   +-- img0.jpg
+|   |   |   |   |   ...
+|   |   |   |   |   +-- img9.jpg
+|   |   |   |   |
+|   |   |   |   +-- person0
+|   |   |   |   ...
+|   |   |   |   +-- person_n
+|   |   |   |   |
+|   |   |   |   +-- output0
+|   |   |   |   ...
+|   |   |   |   +-- output_n
+|   |   |   |   |
+|   |   |   |   +-- res0
+|   |   |   |   |   |
+|   |   |   |   |   +-- img.jpg
+|   |   |   |   |   ...
+|   |   |   |   |   +-- img9.jpg
+|   |   |   |   ...
+|   |   |   |   +-- res_n
+|   |   |   |
+|   |   |   ...
+|   |   |   +-- a_n
+|   |   |
+|   ...
+|   +-- video_file_n
+|   |
++-- result1
+|   |
+|   +-- Model_1_10_96_96_4.weights.best.hdf5
+|   |
++-- result2
+|   |
+|   +-- Model_1_10_96_96_2.weights.best.hdf5
+|   +-- Model_2_10_96_96_2.weights.best.hdf5
+|   +-- Model_3_10_96_96_2.weights.best.hdf5
+|   +-- Model_4_10_96_96_2.weights.best.hdf5
+|   |
++
